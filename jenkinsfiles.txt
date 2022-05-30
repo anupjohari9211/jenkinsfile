@@ -42,7 +42,3 @@ pipeline {
         }
     }   
 }
-
-https://jira.csod.com/browse/MLP-58262
-
-73366d0c16f446dbadb28cafeb5ec944
